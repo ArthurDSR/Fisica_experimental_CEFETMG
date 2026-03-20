@@ -4,7 +4,7 @@
 Estrutura:
 - `index.php` — página inicial com apresentação e panorama histórico.
 - `capitulos.php` — explicação do livro, imagem de capa e link para download.
-- `videos.php` — galeria com **mais de 20** iframes do YouTube (substitua os IDs).
+- `videos.php` — galeria com **mais de 20** iframes do YouTube.
 - `inc/header.php` e `inc/footer.php` — partes comuns (cabeçalho/rodapé).
 - `assets/css/style.css` — estilos.
 - `assets/js/main.js` — script simples (menu responsivo).
